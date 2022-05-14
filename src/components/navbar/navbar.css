@@ -1,0 +1,58 @@
+.navbar__body {
+    padding: 10px 10% !important;
+}
+
+.navbar-brand {
+    font-family: 'Pattaya' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 30px !important;
+    color: #333333 !important;
+}
+
+.navbar__search {
+    width: 419px !important;
+    height: 43px !important;
+    background: #FAFAFA !important;
+    border: 1px solid #ECECEC !important;
+    box-shadow: inset 0px 4px 19px rgba(0, 0, 0, 0.05) !important;
+    border-radius: 6px !important;
+    margin-left: 40px !important;
+    padding-left: 10px !important;
+    font-family: 'Montserrat' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 14px !important;
+    color: #4F4F4F !important;
+}
+
+.nav-link {
+    font-family: 'Montserrat' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 14px !important;
+    color: #333333 !important;
+    margin-left: 30px !important;
+}
+
+.form-check-label {
+    font-family: 'Montserrat' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 14px !important;
+    color: #333333 !important;
+}
+
+.form-switch{
+    margin-left: 30px !important;
+}
+
+.darkmode{
+    background-color: #232323 !important;
+    color: white !important;
+}
+
+.form-check-input:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}

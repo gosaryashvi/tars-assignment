@@ -1,0 +1,135 @@
+.home__top {
+    background-image: url('../../assets/navbar-image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    padding-top: 130px;
+}
+
+.home__top__heading {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+}
+
+.home__top__text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #C4C4C4;
+}
+
+.home__top__search {
+    font-family: 'Montserrat';
+    font-style: normal;
+    width: 808px;
+    height: 54px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding-left: 20px;
+}
+
+.imagegallery__body {
+    padding: 2% 10%;
+    text-align: center;
+}
+
+.imagegallery__cards {
+    border-radius: 8px !important;
+    clear: both;
+}
+
+.imagegallery__cards__image {
+    border-radius: 8px 8px 0px 0px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.imagegallery__cards__userimage {
+    border-radius: 50%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.imagegallery__cards__userdata {
+    float: left !important;
+    margin-top: 15px;
+    text-align: left !important;
+    margin-left: 20px;
+}
+
+.imagegallery__cards__name {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #4F4F4F;
+}
+
+.imagegallery__cards__likes {
+    float: right;
+    margin-right: 20px;
+    margin-top: 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #4F4F4F;
+}
+
+.imagegallery__cards__username {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 14px;
+    color: #A7A7A7;
+}
+
+.imagegallery__cards__infodiv {
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 0px 0px 8px 8px;
+    clear: both;
+    height: 90px;
+    width: 90%;
+    margin: auto !important;
+    cursor: pointer;
+}
+
+button:focus {
+    box-shadow: none !important;
+}
+
+.darkmodehome {
+    background-color: #141414 !important;
+    color: white !important;
+    border: none !important;
+}
+
+.dialog__body {
+    width: 600px;
+}
+
+.dialog__relatedtag {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #4F4F4F;
+    margin-top: 20px;
+}
+
+.dialog__relatedtags__ui{
+    background-color: #ECECEC;
+    padding: 5px 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: fit-content;
+    float: left;
+}
